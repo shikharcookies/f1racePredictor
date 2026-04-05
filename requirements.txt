@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+plotly
+fastf1
+scikit-learn
+numpy
+pydantic>=2.0
+xgboost>=2.0
