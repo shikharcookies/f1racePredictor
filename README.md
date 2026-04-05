@@ -4,9 +4,9 @@ A comprehensive machine learning-powered web application for Formula 1 race pred
 
 ## Demo
 
-**[📹 Watch Demo Video](./demo.mp4)** ← Click to download and watch
+https://github.com/user-attachments/assets/76bf9104-3bf1-48fa-b9eb-6b17f899295f
 
-> The dashboard features multi-year predictions, confidence intervals, circuit accuracy tracking, and interactive session analysis across practice, qualifying, and race simulations.
+> Watch the dashboard in action: multi-year predictions, confidence intervals, circuit accuracy tracking, and interactive session analysis.
 
 ## Overview
 
